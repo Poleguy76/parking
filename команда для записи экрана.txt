@@ -1,0 +1,1 @@
+ffmpeg -f dshow -r 25 -i video="screen-capture-recorder" -vframes 375 D:\UOD\Видосы_с_камеры\output.mp4
